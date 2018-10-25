@@ -18,6 +18,6 @@ Laser Light module
 Light dependent resisters
 
 ```
-<span style="color:red">some **This is Red Bold.** text</span>
+<span style="color:#fff">some **This is Red Bold.** text</span>
 
 
